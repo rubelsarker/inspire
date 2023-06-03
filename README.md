@@ -4,6 +4,11 @@
 
 Get inpirational qoute
 
+## Installation
+```shell
+composer require rsarker/inspire
+```
+
 
 
 ## License
