@@ -24,5 +24,6 @@
                 "Rsarker\\Inspire\\Providers\\InspirationProvider"
             ]
         }
-    }
+    },
+    "version": "1.0.4"
 }
