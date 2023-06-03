@@ -1,0 +1,21 @@
+{
+    "name": "rsarker/inspire",
+    "description": "get inspire quote randomly",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rsarker\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubel",
+            "email": "rubelsarker459@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
